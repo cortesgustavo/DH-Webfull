@@ -1,0 +1,64 @@
+{
+  "filmes": [
+    {
+      "codigo": 1,
+      "titulo": "Lágrimas do Sol",
+      "duracao": 1.20,
+      "atores": [
+        "Bruno",
+        "João",
+        "Joana"
+      ],
+      "anoDeLancamento": 2005,
+      "emCartaz": true
+    },
+    {
+      "codigo": 2,
+      "titulo": "Homens de Preto",
+      "duracao": 1.40,
+      "atores": [
+        "Will",
+        "Smith",
+        "Victor"
+      ],
+      "anoDeLancamento": 2008,
+      "emCartaz": false
+    },
+    {
+      "codigo": 3,
+      "titulo": "Homens de Branco",
+      "duracao": 2.40,
+      "atores": [
+        "Will",
+        "Smith",
+        "Victor"
+      ],
+      "anoDeLancamento": 2008,
+      "emCartaz": false
+    },
+    {
+      "codigo": 4,
+      "titulo": "Homens de Azul",
+      "duracao": 3.40,
+      "atores": [
+        "Will",
+        "Smith",
+        "Victor"
+      ],
+      "anoDeLancamento": 2008,
+      "emCartaz": false
+    },
+    {
+      "codigo": 2,
+      "titulo": "Mulheres de Preto",
+      "duracao": 2.01,
+      "atores": [
+        "Will",
+        "Smith",
+        "Victor"
+      ],
+      "anoDeLancamento": 2008,
+      "emCartaz": false
+    }
+  ]
+}
